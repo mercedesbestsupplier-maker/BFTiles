@@ -1,0 +1,25 @@
+name: Feature request
+description: Describe the Windows task you want to make easier.
+title: "[Idea] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: workflow
+    attributes:
+      label: What are you trying to do?
+      description: Describe the apps, windows and monitors involved in your usual workflow.
+    validations:
+      required: true
+  - type: textarea
+    id: friction
+    attributes:
+      label: What slows you down today?
+      description: Tell us the step you repeat or the mistake you want to avoid.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would a good result look like?
+    validations:
+      required: true
