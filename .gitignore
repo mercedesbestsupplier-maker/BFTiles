@@ -1,0 +1,10 @@
+# Installers belong in GitHub Releases, not Git history.
+*.exe
+*.msi
+*.msix
+
+# Local test captures and build output.
+dist/
+target/
+node_modules/
+*.log
