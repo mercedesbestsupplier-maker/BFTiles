@@ -28,7 +28,7 @@ BFTiles is intended to offer a 30-day trial from account registration, followed 
 
 This is the public product and download page maintained by Lydia in collaboration with BFTools. **BFTiles is commercial, closed-source software.** The application source and build files are not published here. GitHub's automatically generated source archive contains only this public documentation.
 
-For product information, visit [BFTools](https://bifang.tools/window-layout-assistant/). For a problem or a feature request, [open an issue](../../issues). Please do not include passwords, account tokens, payment details or private window contents in a report.
+For company information, visit [BFTools](https://bifang.tools/). For a problem or a feature request, [open an issue](../../issues). Please do not include passwords, account tokens, payment details or private window contents in a report.
 
 ## Credits
 
