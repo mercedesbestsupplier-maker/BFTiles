@@ -1,35 +1,35 @@
-# BFTiles
+# BFTiles · 毕方窗口排布器
 
-**Make a busy Windows desktop easier to organize and return to.**
+**让繁忙的 Windows 桌面更容易整理，也更容易回到原来的工作状态。**
 
-BFTiles helps people working with many open windows arrange them in a grid, stack or cascade, save useful layouts, and bring the right windows back into view. It is designed for repeatable work across multiple apps and accounts.
+BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层叠排列，保存好用的布局，再把需要的窗口带回视野。它面向多个应用、多个账号之间反复要做的工作。
 
-> **Release status:** The Windows installer is being checked on a real Windows device. A verified download will appear under [Releases](../../releases) when that check is complete.
+> **发布状态：** Windows 安装包正在真实 Windows 设备上验收。完成后会在[版本下载页](../../releases)提供经过核对的下载。
 
-## What you can do
+## 可以做什么
 
-- Arrange open windows without calculating positions by hand.
-- Save layouts for work you repeat.
-- Find and filter the windows you want to arrange.
-- Adjust positions, sizes and spacing when a task needs a different view.
+- 排布已经打开的窗口，不用手动计算位置。
+- 保存反复要用的窗口布局。
+- 查找、筛选需要参与排布的窗口。
+- 根据当前任务调整位置、大小和间距。
 
-The product is being improved for international users. Clear window labels and faster one-click arrangements are part of the next version; they are not claimed as features of the current 2.3.5 installer.
+产品也在继续优化海外用户体验。更清楚的窗口标签与更快的一键排布属于下一版本的改进方向，不将它们写成当前 2.3.5 安装包已经具备的功能。
 
-## Get started
+## 从这里开始
 
-1. Check the latest verified Windows x64 installer in [Releases](../../releases).
-2. Read the release notes and SHA-256 checksum before installing.
-3. Open BFTiles, choose the windows for a task, and apply a layout.
-4. Save a layout once it works for you, then reuse it next time.
+1. 到[版本下载页](../../releases)查看经过验收的 Windows x64 安装包。
+2. 安装前阅读版本说明与 SHA-256 校验值。
+3. 打开 BFTiles，为当前任务选出需要的窗口，再应用布局。
+4. 布局好用之后保存下来，下次继续用。
 
-BFTiles is intended to offer a 30-day trial from account registration, followed by an annual plan of **USD 9.90**. The final checkout amount must be shown and confirmed before payment. The installer and checkout flow are being verified before a public download is added here.
+BFTiles 计划提供从账号注册起计算的 30 天试用，之后采用 **每年 9.90 美元**的订阅方案。付款前须显示并确认最终结算金额。安装包与结算流程仍在验收，完成后才会补充公开下载。
 
-## About this repository
+## 关于这个仓库
 
-This is the public product and download page maintained by Lydia in collaboration with BFTools. **BFTiles is commercial, closed-source software.** The application source and build files are not published here. GitHub's automatically generated source archive contains only this public documentation.
+这是 Lydia 与毕方团队协作维护的公开产品介绍与下载入口。**BFTiles 是商业闭源软件。** 这里不发布应用源码和构建文件；GitHub 自动生成的源码压缩包只包含这个仓库的公开文档。
 
-For company information, visit [BFTools](https://bifang.tools/). For a problem or a feature request, [open an issue](../../issues). Please do not include passwords, account tokens, payment details or private window contents in a report.
+团队信息见[毕方网站](https://bifang.tools/)。遇到问题或有功能建议，可以[提交反馈](../../issues)。反馈中请勿包含密码、账号令牌、付款信息或私人窗口内容。
 
-## Credits
+## 原作与贡献
 
-BFTiles is developed by the BFTools team. Lydia contributes product direction and international user experience work, and maintains this public page.
+毕方窗口排布器的原作者是 [@dingzd1995](https://github.com/dingzd1995)，产品由毕方团队持续开发与维护。Lydia 参与产品方向、用户体验和公开产品页维护；原始开发与后续协作分别署名。
