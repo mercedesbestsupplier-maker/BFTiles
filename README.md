@@ -17,10 +17,13 @@ BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层
 
 ## 从这里开始
 
-1. 到[版本下载页](../../releases)查看经过验收的 Windows x64 安装包。
-2. 安装前阅读版本说明与 SHA-256 校验值。
-3. 打开 BFTiles，为当前任务选出需要的窗口，再应用布局。
-4. 布局好用之后保存下来，下次继续用。
+目前 GitHub 尚无公开安装包，Windows 版本仍在设备验收。你现在可以：
+
+1. 看[功能范围](#可以做什么)，判断是否适合自己的多窗口工作。
+2. 用[使用场景与功能建议](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)说明同时使用的程序、显示器和想保存的布局。
+3. 如果已参加内部测试并遇到问题，用[问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)提交版本、Windows 环境与最小复现步骤。
+
+正式发布后，[版本下载页](../../releases)会提供经核对的安装包、版本说明与 SHA-256。
 
 BFTiles 计划提供从账号注册起计算的 30 天试用，之后采用 **每年 9.90 美元**的订阅方案。付款前须显示并确认最终结算金额。安装包与结算流程仍在验收，完成后才会补充公开下载。
 
@@ -28,7 +31,7 @@ BFTiles 计划提供从账号注册起计算的 30 天试用，之后采用 **�
 
 这是 Lydia 与毕方团队协作维护的公开产品介绍与下载入口。**BFTiles 是商业闭源软件。** 这里不发布应用源码和构建文件；GitHub 自动生成的源码压缩包只包含这个仓库的公开文档。
 
-团队信息见[毕方网站](https://bifang.tools/)。遇到问题或有功能建议，可以[提交反馈](../../issues)。反馈中请勿包含密码、账号令牌、付款信息或私人窗口内容。
+团队信息见[毕方网站](https://bifang.tools/)。可以[描述窗口使用场景](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)；已参加内部测试的用户可以[报告可复现问题](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)。反馈中请勿包含密码、账号令牌、付款信息或私人窗口内容。
 
 ## 原作与贡献
 

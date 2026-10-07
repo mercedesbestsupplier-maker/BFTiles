@@ -1,35 +1,35 @@
-name: Bug report
-description: Tell us what happened in BFTiles on Windows.
-title: "[Bug] "
+name: BFTiles 问题反馈
+description: 已参加 Windows 内测的用户，请提交可复现的问题。
+title: "[问题] "
 labels: [bug]
 body:
   - type: markdown
     attributes:
-      value: "Please remove account details and private window contents from screenshots or logs."
+      value: "请先遮盖截图或日志中的账号、私人窗口内容和付款信息。"
   - type: input
     id: version
     attributes:
-      label: BFTiles version
-      placeholder: "For example, 2.3.5"
+      label: BFTiles 版本
+      placeholder: "例如 2.3.5"
     validations:
       required: true
   - type: input
     id: windows
     attributes:
-      label: Windows version and monitor setup
-      placeholder: "For example, Windows 11, two monitors"
+      label: Windows 版本与显示器配置
+      placeholder: "例如 Windows 11、两台显示器"
     validations:
       required: true
   - type: textarea
     id: steps
     attributes:
-      label: Steps to reproduce
-      description: What did you do, and what happened?
+      label: 复现步骤与实际结果
+      description: 依次做了什么？实际发生了什么？
     validations:
       required: true
   - type: textarea
     id: expected
     attributes:
-      label: Expected result
+      label: 预期结果
     validations:
       required: true

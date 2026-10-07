@@ -1,25 +1,25 @@
-name: Feature request
-description: Describe the Windows task you want to make easier.
-title: "[Idea] "
+name: BFTiles 使用场景与功能建议
+description: 描述你想改善的多窗口工作。
+title: "[场景] "
 labels: [enhancement]
 body:
   - type: textarea
     id: workflow
     attributes:
-      label: What are you trying to do?
-      description: Describe the apps, windows and monitors involved in your usual workflow.
+      label: 你要完成什么工作？
+      description: 说说常用的程序、窗口和显示器。
     validations:
       required: true
   - type: textarea
     id: friction
     attributes:
-      label: What slows you down today?
-      description: Tell us the step you repeat or the mistake you want to avoid.
+      label: 现在最费时或最容易出错的是哪一步？
+      description: 写下反复要做的动作或想避免的失误。
     validations:
       required: true
   - type: textarea
     id: outcome
     attributes:
-      label: What would a good result look like?
+      label: 理想的窗口布局或结果是什么？
     validations:
       required: true
