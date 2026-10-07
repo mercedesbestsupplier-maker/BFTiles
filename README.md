@@ -4,7 +4,7 @@
 
 BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层叠排列，保存好用的布局，再把需要的窗口带回视野。它面向多个应用、多个账号之间反复要做的工作。
 
-> **发布状态：** Windows 安装包正在真实 Windows 设备上验收。完成后会在[版本下载页](../../releases)提供经过核对的下载。
+> **下载状态：** [毕方官网已提供 BFTiles 2.3.5 Windows 下载](https://bifang.tools/window-layout-assistant/)；GitHub [版本下载页](../../releases)目前没有安装包。设备实测与结算流程仍在验收。
 
 ## 可以做什么
 
@@ -17,15 +17,16 @@ BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层
 
 ## 从这里开始
 
-目前 GitHub 尚无公开安装包，Windows 版本仍在设备验收。你现在可以：
+GitHub 目前没有安装包，官网已有 2.3.5 Windows 下载。你现在可以：
 
-1. 看[功能范围](#可以做什么)，判断是否适合自己的多窗口工作。
-2. 用[使用场景与功能建议](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)说明同时使用的程序、显示器和想保存的布局。
-3. 如果已参加内部测试并遇到问题，用[问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)提交版本、Windows 环境与最小复现步骤。
+1. 在[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/)查看版本并获取 Windows 安装包。
+2. 看[功能范围](#可以做什么)，判断是否适合自己的多窗口工作。
+3. 用[使用场景与功能建议](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)说明同时使用的程序、显示器和想保存的布局。
+4. 安装或使用中遇到问题，用[问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)提交版本、Windows 环境与最小复现步骤。
 
-正式发布后，[版本下载页](../../releases)会提供经核对的安装包、版本说明与 SHA-256。
+若后续在 GitHub 发布安装包，[版本下载页](../../releases)会提供对应的版本说明与校验值。
 
-BFTiles 计划提供从账号注册起计算的 30 天试用，之后采用 **每年 9.90 美元**的订阅方案。付款前须显示并确认最终结算金额。安装包与结算流程仍在验收，完成后才会补充公开下载。
+BFTiles 计划提供从账号注册起计算的 30 天试用，之后采用 **每年 9.90 美元**的订阅方案。付款前须显示并确认最终结算金额。官网现有 2.3.5 下载入口；设备实测与结算流程仍在验收，实际试用和付款以软件及结算页展示为准。
 
 ## 关于这个仓库
 
