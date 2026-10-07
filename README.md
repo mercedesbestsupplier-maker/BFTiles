@@ -19,10 +19,12 @@ BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层
 
 GitHub 目前没有安装包，官网已有 2.3.5 Windows 下载。你现在可以：
 
-1. 在[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/)查看版本并获取 Windows 安装包。
+1. 在[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/)查看版本，或[直接下载 2.3.5 Windows x64 安装包](https://bifang.tools/BFTiles_2.3.5_x64-setup.exe)。
 2. 看[功能范围](#可以做什么)，判断是否适合自己的多窗口工作。
 3. 用[使用场景与功能建议](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)说明同时使用的程序、显示器和想保存的布局。
 4. 安装或使用中遇到问题，用[问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)提交版本、Windows 环境与最小复现步骤。
+
+**官网安装包校验（2026-10-07）：** `BFTiles_2.3.5_x64-setup.exe`，10,469,482 字节；SHA-256 `f62097303560e335d5592e2fa5a3f96253314121c9946f1401093b5bf2278ed4`。此值对应当日下载的官网文件；设备实测仍在验收。
 
 若后续在 GitHub 发布安装包，[版本下载页](../../releases)会提供对应的版本说明与校验值。
 
