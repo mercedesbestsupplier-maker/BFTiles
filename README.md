@@ -4,7 +4,7 @@
 
 BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层叠排列，保存好用的布局，再把需要的窗口带回视野。它面向多个应用、多个账号之间反复要做的工作。
 
-> **下载状态：** [毕方官网已提供 BFTiles 2.3.5 Windows 下载](https://bifang.tools/window-layout-assistant/)；GitHub [版本下载页](../../releases)目前没有安装包。设备实测与结算流程仍在验收。
+> **下载状态：** [毕方官网已提供 BFTiles 2.3.5 Windows 下载](https://bifang.tools/window-layout-assistant/?utm_source=github&utm_medium=referral&utm_campaign=bftiles&utm_content=product_repo)；GitHub [版本下载页](../../releases)目前没有安装包。设备实测与结算流程仍在验收。
 
 ## 可以做什么
 
@@ -19,7 +19,7 @@ BFTiles 帮助同时使用多个窗口的人，将窗口按网格、堆叠或层
 
 GitHub 目前没有安装包，官网已有 2.3.5 Windows 下载。你现在可以：
 
-1. 在[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/)查看版本，或[直接下载 2.3.5 Windows x64 安装包](https://bifang.tools/BFTiles_2.3.5_x64-setup.exe)。
+1. 在[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/?utm_source=github&utm_medium=referral&utm_campaign=bftiles&utm_content=product_repo)查看版本，或[直接下载 2.3.5 Windows x64 安装包](https://bifang.tools/BFTiles_2.3.5_x64-setup.exe)。
 2. 看[功能范围](#可以做什么)，判断是否适合自己的多窗口工作。
 3. 用[使用场景与功能建议](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)说明同时使用的程序、显示器和想保存的布局。
 4. 安装或使用中遇到问题，用[问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)提交版本、Windows 环境与最小复现步骤。
