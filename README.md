@@ -34,7 +34,7 @@ BFTools 已公开两段英文实操教程：[第 1 集：将杂乱窗口排成�
 
 ## 试用与付款状态
 
-官网[产品页](https://bifang.tools/window-layout-assistant/)与[结账说明页](https://bifang.tools/checkout/)目前均显示免费试用和 USD 9.90/year。在线购买目前不可用：产品页写着“Complete payment on our checkout page”，而结账页实际上只说明点击下载获取软件，并称正式结算信息未来会在付款前展示；当前没有支付表单或可完成交易的入口。试用期限及实际付款条件也未核实。请先联系团队确认；本仓库不收款。
+官网[产品页](https://bifang.tools/window-layout-assistant/)显示免费试用和 USD 9.90/year，并引导用户前往[结账页](https://bifang.tools/checkout/)付款；结账页目前展示产品摘要与下载步骤，没有付款表单或可完成交易的入口。页面说明，正式付款上线前会公布最终价格与账单信息。当前无法在线购买；收款平台、最终价格、试用期限和付款条件均未核实。需要咨询试用或购买方式，请联系毕方团队；本仓库不收款。
 
 需要确认试用、购买方式或最终价格，可[邮件联系毕方团队](mailto:service@bifang.tools?subject=BFTiles%20GitHub%20%E4%BA%A7%E5%93%81%E9%A1%B5%E5%92%A8%E8%AF%A2)；付款前请核对币种、期限与交付方式。
 
