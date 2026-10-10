@@ -24,7 +24,7 @@ GitHub 目前没有安装包，官网已有 2.3.5 Windows 下载。你现在可�
 3. 用[使用场景与功能建议](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=feature_request.yml)说明同时使用的程序、显示器和想保存的布局。
 4. 安装或使用中遇到问题，用[问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues/new?template=bug_report.yml)提交版本、Windows 环境与最小复现步骤。
 
-**官网安装包校验（2026-10-07 首次、2026-10-09 复核）：** `BFTiles_2.3.5_x64-setup.exe`，10,469,482 字节；SHA-256 `f62097303560e335d5592e2fa5a3f96253314121c9946f1401093b5bf2278ed4`。两次从官网完整下载的文件长度与哈希一致；设备实测仍在验收。
+**官网安装包校验（2026-10-07 首次、2026-10-09 与 2026-10-10 复核）：** `BFTiles_2.3.5_x64-setup.exe`，10,469,482 字节；SHA-256 `f62097303560e335d5592e2fa5a3f96253314121c9946f1401093b5bf2278ed4`。2026-10-10 官网下载返回 HTTP 200、`Content-Length` 为 10,469,482 字节，完整流式校验的 SHA-256 与记录值一致；此前两次完整下载的文件长度和哈希也一致。设备实测仍在验收。
 
 若后续在 GitHub 发布安装包，[版本下载页](../../releases)会提供对应的版本说明与校验值。
 
